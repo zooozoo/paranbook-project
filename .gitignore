@@ -2,6 +2,7 @@
 
 # Custom
 .idea/
+test.py
 .config_secret/
 .media/
 pretty_html.html
